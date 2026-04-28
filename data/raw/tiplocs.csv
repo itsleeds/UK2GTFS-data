@@ -1222,6 +1222,7 @@
 "HAYLE","HYL","Hayle Rail Station",-5.41984, 50.18556
 "HAYMRKT","HYM","Haymarket Rail Station",-3.21831, 55.94532
 "HAYS","HYS","Hayes (Kent) Rail Station",0.01015, 51.37646
+"HAZEWLL","PIR","Pineapple Road",-1.909660,52.429990
 "HAZL","HAZ","Hazel Grove Rail Station",-2.12202, 53.37754
 "HBDNBDG","HBD","Hebden Bridge Rail Station",-2.00906, 53.73759
 "HBRN","HBN","Hollingbourne Rail Station",0.62785, 51.26518
@@ -1463,6 +1464,7 @@
 "KIDBROK","KDB","Kidbrooke Rail Station",0.0275, 51.46212
 "KIDSGRV","KDG","Kidsgrove Rail Station",-2.24482, 53.08656
 "KIDWELY","KWL","Kidwelly Rail Station",-4.31699, 51.73434
+"KIGSHTH","KIH","King's Heath",-1.892970,52.431410
 "KILARNY","KLL","KILLARNEY",-9.50226, 52.05923
 "KILDONN","KIL","Kildonan Rail Station",-3.86911, 58.17081
 "KILGETY","KGT","Kilgetty Rail Station",-4.71516, 51.7321
@@ -1824,6 +1826,7 @@
 "MORFLDS","MRF","Moorfields Rail Station",-2.98919, 53.40856
 "MORFNL","MRF","Moorfields Rail Station",-2.98925, 53.40856
 "MORTHRP","MRP","Moorthorpe Rail Station",-1.30495, 53.59499
+"MOSLEY","MOV","Moseley Village",-1.884510,52.445820
 "MOSSLEY","MSL","Mossley (Manchester) Rail Station",-2.04128, 53.51498
 "MOTFONT","DBG","Mottisfont & Dunbridge Rail Station",-1.54708, 51.03392
 "MOTHRWL","MTH","Motherwell Rail Station",-3.99433, 55.79167
@@ -3206,8 +3209,7 @@
 "SESABUS ","ZBU","Southease - Piddinghoe Road",0.01782, 50.82962
 "DLTNCGP","XGO","Darlington Catterick Garrison (Post Office)",-1.70892, 54.37538
 "DUNROD",NA,"Dunrod",-4.84359, 55.91825
-"ESJLEDS
-","XES","Engine Shed Junction",-1.55561, 53.7879
+"ESJLEDS","XES","Engine Shed Junction",-1.55561, 53.7879
 "CRGICCE",NA,"CRAIGINCHES C.E.",-2.0906, 57.12827
 "CRGN860",NA,"CRAIGENTINNY SIG EP860",-3.13788, 55.95589
 "CRKLDER",NA,"CRICKLEWOOD DEPOT EXIT RD",-0.21357, 51.55913
